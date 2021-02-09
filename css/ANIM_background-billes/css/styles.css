@@ -20,8 +20,8 @@
     display: inline-block;
     justify-content: center;
     align-items: center;
-    width: 1%;
-    height: 1%;
+    width: 20px;
+    height: 20px;
 }
 
 .container i::before {
