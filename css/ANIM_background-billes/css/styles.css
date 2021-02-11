@@ -38,6 +38,7 @@
     opacity: 0;
     transition: 4s;
     pointer-events: none;
+    cursor: none;
     border-radius: 50%;
 }
 
