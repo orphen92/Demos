@@ -4,7 +4,7 @@
     --color: #571BC3;
     --bgColor: #000;
     --animSpeed: 3s;
-    --textWrapWidth: 400px;
+    --textWrapWidth: 380px;
     --barWidth: 10px;
   }
 
@@ -29,7 +29,7 @@ body {
 .container {
     position: relative;
     width: var(--textWrapWidth);
-    height: 300px;
+    height: calc(var(--textWrapWidth) / 2);
     display: flex;
     justify-content: center;
     align-items: center;
